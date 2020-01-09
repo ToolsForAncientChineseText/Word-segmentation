@@ -4,6 +4,6 @@
 ```
 python main.py 
 ```
-data/sample.txt为样例文本；tensorflow == 1.13.2
+data/sample.txt为样例文本；tensorflow == 1.13
 # 参考
 https://github.com/google-research/bert
