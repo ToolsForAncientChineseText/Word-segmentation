@@ -4,7 +4,7 @@
 http://jcip.cipsc.org.cn/CN/abstract/abstract2981.shtml
 # 模型演示
 ```
-http://8e4a9821fa8c.ngrok.io 
+https://c52ebc76dedb.ngrok.io
 ```
 由于网络等问题，处理速度可能较慢。请耐心等待。
 # 参考
